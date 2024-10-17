@@ -1,0 +1,66 @@
+.header{
+    color: red;
+    text-align: center;
+    font-size: 25px;
+}
+.main{
+    background:lightgray;
+}
+input{
+    width: 300px;
+}
+.main a{
+    text-decoration: none;
+    color: black;
+}
+.name input{  
+    margin-left:83px ;
+}
+.lastname input{  
+    margin-left:83px ;
+}
+.email input{  
+    margin-left:115px ;
+}
+.mobile input{  
+    margin-left:108px ;
+} 
+.gender input{  
+    width:16px ;
+}
+
+.gender a{  
+    margin-right: 100px;
+}
+.dob input{  
+    margin-left:60px ;
+}
+.address textarea{  
+    margin-left:95px ;
+}
+.City input{  
+    margin-left:120px ;
+}
+.areapin input{  
+    margin-left:90px ;
+}
+.Qlification input{  
+    margin-left:75px ;
+}
+.state input{  
+    margin-left:115px ;
+}
+.specialization input{  
+    width:30px;
+}
+.chb{
+    margin-left: 140px;
+}
+.password input{  
+    margin-left:80px ;
+}
+button{
+    background: green;
+    color: aliceblue;
+    border-radius: 5px;
+}
